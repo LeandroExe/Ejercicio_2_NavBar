@@ -1,0 +1,29 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    
+}
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(255, 245, 232);
+}
+
+ul {
+    
+    font-family: 'Roboto Condensed', sans-serif;
+    display: flex;
+    gap: 3rem;
+    font-size: 1.1rem;
+}
+
+ul li a{
+    color: black;
+}
+
+
